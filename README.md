@@ -1,4 +1,4 @@
 Name: SHANKHODEEP DAS
-Std. ID: BWU/BTS/25/004
+Student ID: BWU/BTS/25/004
 Department: BTECH-CSE
 Group: B
